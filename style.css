@@ -5,15 +5,16 @@
 }
 
 body{
-  background-color: rgb(181, 230, 144);
+  background-color: rgb(94, 238, 243);
 }
 
 
 
 .square{
-  width: 5rem;
+  width: 8rem;
   height: 8rem;
   background-color: red;
+  border-radius: 15px;
 }
 
 section{
