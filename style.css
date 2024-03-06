@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(181, 230, 144);
+}
+
+
+
+.square{
+  width: 5rem;
+  height: 8rem;
+  background-color: red;
+}
+
+section{
+  display: flex;
+  justify-content: center;
+  gap: 5rem;
+  margin-top: 35%;
+}
+
+.green{
+  background-color: green;
+}
